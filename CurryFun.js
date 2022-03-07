@@ -1,4 +1,4 @@
-
+//slides : https://docs.google.com/presentation/d/1O87ydGIeMR4w_F4DemiWCMSs7VhLtVlR_5W6nsdrsik/edit#slide=id.g112f6017585_0_416
 function sum(a, b, c, d) {
     return a + b + c + d; 
    }
